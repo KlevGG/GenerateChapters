@@ -45,11 +45,11 @@ def create_chapter_xml(chapter_timings, use_names):
             chapter_display.appendChild(chapter_string)
 
         chapter_language = doc.createElement('ChapterLanguage')
-        chapter_language.appendChild(doc.createTextNode('und'))
+        chapter_language.appendChild(doc.createTextNode('en'))
         chapter_display.appendChild(chapter_language)
 
         chap_language_ietf = doc.createElement('ChapLanguageIETF')
-        chap_language_ietf.appendChild(doc.createTextNode('und'))
+        chap_language_ietf.appendChild(doc.createTextNode('en'))
         chapter_display.appendChild(chap_language_ietf)
 
         chapter_uid = doc.createElement('ChapterUID')
