@@ -1,5 +1,5 @@
 # Generate Chapters From Text Files
-Automatically generates a working chapterx.xml file from a text file that you can use within MKVToolNix. 
+Automatically generates a working chapterx.xml file from a text file that you can use within MKVToolNix and sets the chapters language to English.
 
 ## How To Use? 
 - Have Python installed and added to the PATh
