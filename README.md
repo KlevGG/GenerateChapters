@@ -11,7 +11,7 @@ Automatically generates a working chapterx.xml file from a text file that you ca
 ### Examples 
 
 Picture 1: Chapters copied from mediainfo into the text file. 
-<a href="https://ibb.co/bJRmQG3"><img src="https://i.ibb.co/PQzjFVY/inputtxt.png" alt="inputtxt" border="0"></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/KzTDjxt5/inputtxt.png' border='0' alt='inputtxt'/></a>
 
 Picture2: The generated output.xml file in MKVToolNix. 
 <a href="https://ibb.co/0YTZ6Ms"><img src="https://i.ibb.co/TP6R78W/mkvtoolnixchapters.png" alt="mkvtoolnixchapters" border="0"></a>
