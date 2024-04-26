@@ -2,7 +2,7 @@
 Automatically generates a working chapterx.xml file from a text file that you can use within MKVToolNix and sets the chapters language to English.
 
 ## How To Use? 
-- Have Python installed and added to the PATh
+- Have Python installed and added to the PATH
 - Place the script `gen-chapters.py` in a folder, and create an empty input.txt file. 
 - Copy paste the chapters from the mediainfo into input.txt.
 - Run the script using `python gen-chapters.py output.xml input.txt`
